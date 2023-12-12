@@ -1,4 +1,4 @@
-# OneWireUARTPassiveAdapter
+# 1-Wire UART Passive Adapter
 
 Tested for USB to TTL CP2102.
 
